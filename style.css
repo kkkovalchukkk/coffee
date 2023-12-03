@@ -35,10 +35,6 @@ body {
 header {
     width: 100%;
     padding: 24px 0;
-    position: fixed;
-    left: 0;
-    top: 0;
-    z-index: 3;
 }
 
 .wrapper {
